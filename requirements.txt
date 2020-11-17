@@ -1,0 +1,1 @@
+https://github.com/zeromq/pyre/archive/fa0db96ddc43fe68d922ddf945f7bda3bc064605.zip#egg=pyre-0.fa0db9
